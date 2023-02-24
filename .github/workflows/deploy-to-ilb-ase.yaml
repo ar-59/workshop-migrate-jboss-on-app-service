@@ -8,7 +8,7 @@ on:
 env:
   WEBAPP: redhattestaajlsvza7me3w
   RESOURCE_GROUP: Jbossonapp-870800
-  STORAGE_ACCOUNT: "ar-870800"  # This must be a *globally* unique name. (Only lowercase letters and numbers allowed. No spaces, dashes, underscores.)
+  STORAGE_ACCOUNT: "ar870800"  # This must be a *globally* unique name. (Only lowercase letters and numbers allowed. No spaces, dashes, underscores.)
 
   LOCATION: eastus2
   CONTAINER: artifacts
